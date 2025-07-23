@@ -1,0 +1,21 @@
+body  { 
+    background-color: #de5efb;
+    font-family: Arial, sans-serif;
+    color: #fbfbfb;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+button {
+    background-color: #fbfbfb;
+    color: #de5efb;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-style: dashed;
+}
