@@ -53,7 +53,9 @@ function Home() {
       <p>I don't wanna fall asleep, yeah</p>
       <p>And I don't wanna miss a thing</p>
       <p>I love you, Leticia</p>
-      <a href="https://music.apple.com/br/album/i-dont-want-to-miss-a-thing-from-armageddon-soundtrack/1704953784?i=1704954398">I Don't Want to Miss a Thing</a>
+      <a href="https://music.apple.com/br/album/i-dont-want-to-miss-a-thing-from-armageddon-soundtrack/1704953784?i=1704954398">
+        I Don't Want to Miss a Thing
+      </a>
     </div>
   );
 }
